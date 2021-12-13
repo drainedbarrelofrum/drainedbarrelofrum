@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drainedbarrelofrum or just Jiri. 
-- 👀 As a radio enginee and among other things, I’m interested in DSP, digital communications, ML, time-series analysis and statistics algorithms and their implementation in Python, Matlab, C/C++ or VHDL within the radio and mobile networks area. 
+- 👀 As a radio engineer and among other things, I’m interested in DSP, digital communications, ML, time-series analysis and statistics algorithms and their implementation in Python, Matlab, C/C++ or VHDL within the radio and mobile networks area. 
 - 🌱 I’m currently refining my Python skills. 
 - 📫 Feel free to reach me at skoreji3@fel.cvut.cz or skoric2@gmail.com or jiri.skorepa@t-mobile.cz
 
